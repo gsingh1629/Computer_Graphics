@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\91946\source\repos\algo_visualizer\algo_visualizer\source.cpp(112): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  algo_visualizer.vcxproj -> C:\Users\91946\source\repos\algo_visualizer\Debug\algo_visualizer.exe
